@@ -1,5 +1,5 @@
 import { FlatList, StyleSheet, View } from 'react-native';
-import Tweet from '../../components/Tweet';
+import Tweet from '../../components/tweet/Tweet';
 import tweets from '../../assets/data/tweets';
 import { TweetType } from '../types';
 

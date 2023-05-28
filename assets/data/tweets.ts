@@ -1,4 +1,6 @@
-const tweets = [
+import { TweetType } from '../../app/types';
+
+const tweets: TweetType[] = [
   {
     id: 't0',
     user: {
